@@ -1,0 +1,15 @@
+.navb {
+    grid-area : n;
+    background-color: gold;
+    padding: 10px;
+    font-size: 24px;
+
+}
+a  {
+    color: purple;
+}
+.item .active {
+    color: hotpink;
+    text-decoration: none;
+}
+
